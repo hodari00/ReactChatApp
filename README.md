@@ -1,3 +1,4 @@
+
 Install the npm packages using:
 
 ```bash
@@ -16,5 +17,3 @@ Open `http://localhost:8080` in your browser.
 $ npm run build
 $ npm start
 ```
-
-
