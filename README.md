@@ -17,3 +17,5 @@ Open `http://localhost:8080` in your browser.
 $ npm run build
 $ npm start
 ```
+
+Bot dictionary found in src/components/ChatInput.js
